@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Resources/suraj-kumar-thakur-picture.jpeg" width="200">
+  <img src="/Resources/suraj-kumar-thakur-picture2.jpeg" width="200">
 </div>
 
 ## About Me
