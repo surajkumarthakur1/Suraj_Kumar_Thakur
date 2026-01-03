@@ -18,7 +18,7 @@ I hold 5+ Years of experience in
   </button>
 </a>
  ✶ 
-<a href="https://github.com/yourusername/yourusername/raw/main/document.pdf" target="_blank">
+<a href="/Resources/Resume-SurajThakur.pdf" target="_blank">
   <button style="background: navy; color: white; padding: 10px 20px; border: none; border-radius: 5px;">
     My Resume
   </button>
