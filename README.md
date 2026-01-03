@@ -3,9 +3,7 @@
 </div>
 
 ## ABOUT ME
-Hi, I'm
-Suraj Kumar Thakur
-I hold 5+ Years of experience in
+Hi, I'm Suraj Kumar Thakur. I hold 5+ Years of experience in -
 - Investment Banking Operations
 - Financial Analysis
 - Valuation Support
