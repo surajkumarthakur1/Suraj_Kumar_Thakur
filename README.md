@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Resources/Suraj Kumar Thakur- Intro image.png" width="200">
+  <img src="/Resources/Suraj Kumar Thakur- Intro image.png" width="200" height="350">
 </div>
 
 ## About Me
