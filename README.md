@@ -10,4 +10,22 @@ I hold 5+ Years of experience in
 - Financial Analysis
 - Valuation Support
 
+<div align="center">
+<a href="http://www.linkedin.com/in/surajkumarthakur" target="_blank">
+  <button style="
+    background-color: navy;
+    color: white;
+    padding: 5px 15px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  ">
+    LinkedIn Profile
+  </button>
+</a>
+</div>
+
+
 Thank you.
